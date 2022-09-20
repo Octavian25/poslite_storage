@@ -1,0 +1,6 @@
+{
+      "name": 'Backoffice Nagatech P.O.S',
+      "version": 1.2,
+      "description": ['Added Some Feature', 'Minor Bug Fixes'],
+      "windows_file_name": 'installers/windows/Backoffice%20Nagatech%20P.O.S.exe',
+    };
